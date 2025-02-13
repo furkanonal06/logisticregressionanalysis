@@ -98,13 +98,6 @@ It will also generate two plots side by side: one for the linear model and one f
 *   **Turning Point:** In a quadratic model, the turning point is the value of the predictor where the relationship with the outcome changes direction (minimum or maximum).
 *   **Pseudo R-squared:** A measure of goodness-of-fit for logistic regression models. It is not directly comparable to the R-squared in linear regression.
 
-## Further Enhancements (Potential Future Work)
-
-*   Implement cross-validation for more robust model evaluation.
-*   Add feature scaling as a preprocessing step.
-*   Include other model comparison metrics (AIC, BIC, AUC).
-*   Add confidence intervals to the predicted probability plots.
-*   Implement unit tests.
 
 ## License
 
